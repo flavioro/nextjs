@@ -4,3 +4,6 @@ NextJs - Production grade React applications that scale. The world's leading com
 
 **Install TypeScript**
  - yarn add typescript @types/react @types/node -D
+
+**API Fake**
+ - npx json-server server.json -p 3333 -w
