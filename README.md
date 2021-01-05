@@ -7,3 +7,6 @@ NextJs - Production grade React applications that scale. The world's leading com
 
 **API Fake**
  - npx json-server server.json -p 3333 -w
+ 
+ - Add delay request
+ - npx json-server server.json -p 3333 -w -d 2000
